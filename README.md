@@ -23,18 +23,16 @@ We planned to use auto-rickshaw instead of ambulance because autos are easily ac
 
 Ask for Help             |  Help is on the way
 :-------------------------:|:-------------------------:
-<img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/0.%20Ask%20for%20Help.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/8.%20Auto%20Driver%20Accept's%20Request.PNG"></img>
+
 
 ## Auto Driver's Screen:-
 
 
 Auto Driver Get's Notified             |  Direction to the hospital
 :-------------------------:|:-------------------------:
-<img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/1.%20Auto%20driver%20get's%20notification%20and%20click%20on%20link.png"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/5.%20After%20picking%20up%20the%20victim%20showing%20Direction%20towards%20the%20hospital.png"></img>
 
 ## Hospital's Screen:-
 
 
-![Hospital](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Hospital's%20Screen/1.%20Confirm%20whether%20Auto%20driver%20Dropped%20Patient%20or%20not.jpeg)
 
 
